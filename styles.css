@@ -1,0 +1,20 @@
+#magnifying-glass {
+    width: 20px;
+    
+}
+#microphone {
+    width: 20px;
+    position: absolute;
+    
+}
+#logo {
+    width: 272px;
+}
+.search-bar {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    
+    margin: auto;
+    width: 50%;
+}
